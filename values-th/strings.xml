@@ -131,7 +131,7 @@
     <string name="pref_reverb_title">เสียงก้อง</string>
     <string name="pref_reverb_roomsize">ขนาดห้อง</string>
     <string name="pref_reverb_width">ฟิลด์เสียง</string>
-    <string name="pref_reverb_damp">ความสามารถของภาคขยายในการหยุดการสั่นค้างกรวย(โดม)ของดอกลำโพง</string>
+    <string name="pref_reverb_damp">ความสามารถของภาคขยายในการหยุดการสั่นค้างกรวย</string>
     <string name="pref_reverb_wet">สัญญาณเปียก</string>
     <string name="pref_reverb_dry">สัญญาณแห้ง</string>
     <string name="pref_dynamicsystem_title">ระบบแบบไดนามิก</string>
@@ -145,7 +145,7 @@
     <string name="dynamicsystem_entry_7">เฮดโฟนไฮเอนด์(v1)</string>
     <string name="dynamicsystem_entry_8">เฮดโฟนธรรมดา(v1)</string>
     <string name="dynamicsystem_entry_9">หูฟังธรรมดา(v1)</string>
-    <string name="dynamicsystem_entry_10">หูฟัง Apple</string>
+    <string name="dynamicsystem_entry_10">หูฟัง แอปเปิล</string>
     <string name="dynamicsystem_entry_11">หูฟัง มอนสเตอร์</string>
     <string name="dynamicsystem_entry_12">หูฟัง โมโตโรล่า</string>
     <string name="dynamicsystem_entry_13">หูฟัง ฟิลิปส์</string>
