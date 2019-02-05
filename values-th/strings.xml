@@ -102,7 +102,7 @@
     <string name="pref_viperddc_title">ไวเปอร์-DDC</string>
     <string name="pref_viperddc_device">แก้ไขชุดหูฟัง</string>
     <string name="text_choose_ddc_device">เลือกไฟล์แก้ไข</string>
-    <string name="pref_vse_title">นามสกุลสเปกตรัม</string>
+    <string name="pref_vse_title">ส่วนขยายสเปกตรัม</string>
     <string name="pref_vse_strength">ความแข็งแรง</string>
     <string name="pref_equalizer_title">FIR อีควอไลเซอร์</string>
     <string name="eq_preset_acoustic">อะคูสติก</string>
@@ -131,7 +131,7 @@
     <string name="pref_reverb_title">เสียงก้อง</string>
     <string name="pref_reverb_roomsize">ขนาดห้อง</string>
     <string name="pref_reverb_width">ฟิลด์เสียง</string>
-    <string name="pref_reverb_damp">ความสามารถของภาคขยายในการหยุดการสั่นค้างกรวย</string>
+    <string name="pref_reverb_damp">ควบคุมการเคลื่อนที่กรวยลำโพง(DF)</string>
     <string name="pref_reverb_wet">สัญญาณเปียก</string>
     <string name="pref_reverb_dry">สัญญาณแห้ง</string>
     <string name="pref_dynamicsystem_title">ระบบแบบไดนามิก</string>
